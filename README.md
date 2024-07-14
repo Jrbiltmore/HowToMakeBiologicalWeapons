@@ -1,4 +1,4 @@
-# Begging for rescue from these corrupt cops, judges and lawyers
+# Begging for rescue from these corrupt cops, judges and lawyers. Tired of being robbed and forced to sleep in pepertree park all day and a car wash at night
 
 ### **README for Quantum CRISPR**
 
