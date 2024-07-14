@@ -1,0 +1,6 @@
+{
+    "name": "quantum-crispr-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Quantum CRISPR project",
+    "main": "index.js"
+}

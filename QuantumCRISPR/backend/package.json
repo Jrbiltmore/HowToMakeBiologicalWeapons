@@ -1,0 +1,6 @@
+{
+    "name": "quantum-crispr-backend",
+    "version": "1.0.0",
+    "description": "Backend for Quantum CRISPR project",
+    "main": "server.js"
+}
